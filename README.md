@@ -50,7 +50,7 @@ Clone o repositório:
 
 bash
 Copy
-git clone [https://github.com/seu-usuario/Amigo-secreto](https://github.com/fjmattos/Amigo-secreto/).git
+git clone https://github.com/fjmattos/Amigo-secreto.git
 Navegue até a pasta do projeto:
 
 bash
